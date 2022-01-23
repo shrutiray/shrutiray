@@ -8,8 +8,6 @@
                
 - 👀 I’m interested in Medical Imaging, Brain-Computer Interfacing, Neuro-rehabilitation
 
-- 🌱 I’m currently learning Data Science, Web development and 3D Modelling
-
 - My Scientific Work Include - 
 
   Master's thesis: REAL TIME CLASSIFICATION OF EMOTIONS TO CONTROL STAGE LIGHTING DURING DANCE PERFORMANCE
